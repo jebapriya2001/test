@@ -11,3 +11,4 @@ for (var x = 1; x < arr.length; x++) {
 
 console.log(max); //10 
  
+//test
